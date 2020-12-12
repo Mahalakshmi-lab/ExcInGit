@@ -28,5 +28,8 @@ public class Travels {
 	public void setDelux(String delux) {
 		Delux = delux;
 	}
+	public void setLakshmi(String lakshmi) {
+		Lakshmi=lakshmi;
+	}
 	
 }
