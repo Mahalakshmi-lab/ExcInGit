@@ -13,6 +13,9 @@ public class Travels {
 	public void setRate(String rate) {
 		Rate = rate;
 	}
+	public void setMaha(String maha) {
+		Maha=maha;
+	}
 	public String getSuperDelux() {
 		return SuperDelux;
 	}
@@ -25,4 +28,5 @@ public class Travels {
 	public void setDelux(String delux) {
 		Delux = delux;
 	}
+	
 }
