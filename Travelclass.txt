@@ -1,0 +1,28 @@
+package AllCollections;
+
+public class Travels {
+	
+	public String Rate;
+	public String SuperDelux;
+	public String Delux;
+
+	
+	public String getRate() {
+		return Rate;
+	}
+	public void setRate(String rate) {
+		Rate = rate;
+	}
+	public String getSuperDelux() {
+		return SuperDelux;
+	}
+	public void setSuperDelux(String superDelux) {
+		SuperDelux = superDelux;
+	}
+	public String getDelux() {
+		return Delux;
+	}
+	public void setDelux(String delux) {
+		Delux = delux;
+	}
+}
